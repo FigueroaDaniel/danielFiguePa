@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielFiguePa
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning Swift and SwiftUI
 
 <!---
 danielFiguePa/danielFiguePa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
